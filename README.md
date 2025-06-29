@@ -61,5 +61,3 @@ Smart Camera Observation and Unusual Tracking
 3. **Alert Generation:** Sends contextual alerts to your mobile app or emergency channels.
 
 ---
-
-Let me know if you want this adapted for a **resume**, **LinkedIn post**, or **technical report** version!
